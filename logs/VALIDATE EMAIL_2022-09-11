@@ -1,0 +1,35 @@
+2022-09-11 11:03:30|REQUEST{"messengerId":"sudipto.saha84","email":"sudipto.mmj84@gmail.com"}|MessengerID :sudipto.saha84|Email: sudipto.mmj84@gmail.com|Valid Email|Valid
+2022-09-11 11:14:07|REQUEST[]|MessengerID :|Email: |Valid Email|Valid
+2022-09-11 11:14:42|REQUEST[]|MessengerID :|Email: |Valid Email|Valid
+2022-09-11 11:14:44|REQUEST[]|MessengerID :|Email: |Valid Email|Valid
+2022-09-11 11:14:44|REQUEST[]|MessengerID :|Email: |Valid Email|Valid
+2022-09-11 11:14:44|REQUEST[]|MessengerID :|Email: |Valid Email|Valid
+2022-09-11 11:14:44|REQUEST[]|MessengerID :|Email: |Valid Email|Valid
+2022-09-11 11:14:45|REQUEST[]|MessengerID :|Email: |Valid Email|Valid
+2022-09-11 11:15:02|REQUEST[]|MessengerID :|Email: |Valid Email|Valid
+2022-09-11 11:15:02|REQUEST[]|MessengerID :|Email: |Valid Email|Valid
+2022-09-11 11:15:03|REQUEST[]|MessengerID :|Email: |Valid Email|Valid
+2022-09-11 11:15:03|REQUEST[]|MessengerID :|Email: |Valid Email|Valid
+2022-09-11 11:15:04|REQUEST[]|MessengerID :|Email: |Valid Email|Valid
+2022-09-11 11:15:07|REQUEST[]|MessengerID :|Email: |Valid Email|Valid
+2022-09-11 11:15:32|REQUEST{"messengerId":"sudipto.saha84","email":"sudipto.mmj84@gmail.com"}|MessengerID :sudipto.saha84|Email: sudipto.mmj84@gmail.com|Valid Email|Valid
+2022-09-11 11:15:39|REQUEST[]|MessengerID :|Email: |Valid Email|Valid
+2022-09-11 11:16:24|REQUEST_{"messengerId":"sudipto.saha84","email":"sudipto.mmj84@gmail.com"}|MessengerIdsudipto.saha84|Email:sudipto.mmj84@gmail.comInvalid Email|
+2022-09-11 11:16:58|REQUEST_{"messengerId":"sudipto.saha84","email":"sudipto.mmj84@gmail.com"}|MessengerIdsudipto.saha84|Email:sudipto.mmj84@gmail.comInvalid Email|
+2022-09-11 11:17:22|REQUEST_{"messengerId":"sudipto.saha84","email":"sudipto.mmj84@gmail.com"}|MessengerIdsudipto.saha84|Email:sudipto.mmj84@gmail.comInvalid Email|
+2022-09-11 11:18:25|REQUEST_{"messengerId":"sudipto.saha84","email":"sudipto.mmj84@gmail.com"}|MessengerIdsudipto.saha84|Email:sudipto.mmj84@gmail.comInvalid Email|
+2022-09-11 11:18:25|REQUEST_{"messengerId":"sudipto.saha84","email":"sudipto.mmj84@gmail.com"}|MessengerIdsudipto.saha84|Email:sudipto.mmj84@gmail.comInvalid Email|
+2022-09-11 11:18:26|REQUEST_{"messengerId":"sudipto.saha84","email":"sudipto.mmj84@gmail.com"}|MessengerIdsudipto.saha84|Email:sudipto.mmj84@gmail.comInvalid Email|
+2022-09-11 11:18:26|REQUEST_{"messengerId":"sudipto.saha84","email":"sudipto.mmj84@gmail.com"}|MessengerIdsudipto.saha84|Email:sudipto.mmj84@gmail.comInvalid Email|
+2022-09-11 11:19:26|REQUEST_{"messengerId":"sudipto.saha84","email":"sudipto.mmj84@gmail.com"}|MessengerIdsudipto.saha84|Email:sudipto.mmj84@gmail.comInvalid Email|
+2022-09-11 11:19:28|REQUEST_{"messengerId":"sudipto.saha84","email":"sudipto.mmj84@gmail.com"}|MessengerIdsudipto.saha84|Email:sudipto.mmj84@gmail.comInvalid Email|
+2022-09-11 11:19:28|REQUEST_{"messengerId":"sudipto.saha84","email":"sudipto.mmj84@gmail.com"}|MessengerIdsudipto.saha84|Email:sudipto.mmj84@gmail.comInvalid Email|
+2022-09-11 11:19:31|REQUEST_{"messengerId":"sudipto.saha84","email":"sudipto.mmj84@gmail.com"}|MessengerIdsudipto.saha84|Email:sudipto.mmj84@gmail.comInvalid Email|
+2022-09-11 11:20:05|REQUEST_{"messengerId":"sudipto.saha84","email":"sudipto.mmj84@gmail.com"}|MessengerIdsudipto.saha84|Email:sudipto.mmj84@gmail.comValid Email|
+2022-09-11 11:20:13|REQUEST{"messengerId":"sudipto.saha84"}|MessengerID :sudipto.saha84|Email: |Invalid Email|Invalid
+2022-09-11 11:20:25|REQUEST{"messengerId":"sudipto.saha84","email":"sudipto.mmj84@.com"}|MessengerID :sudipto.saha84|Email: sudipto.mmj84@.com|Invalid Email|Invalid
+2022-09-11 11:20:40|REQUEST{"messengerId":"sudipto.saha84","email":"sudipto.mmj84@gmail.com"}|MessengerID :sudipto.saha84|Email: sudipto.mmj84@gmail.com|Valid Email|Valid
+2022-09-11 11:52:31|REQUEST[]|MessengerID :|Email: |Invalid Email|Invalid
+2022-09-11 11:52:41|REQUEST[]|MessengerID :|Email: |Invalid Email|Invalid
+2022-09-11 12:51:13|REQUEST_{"messengerId":"sudipto.saha84","email":"sudipto.mmj84@gmail.com"}|MessengerIdsudipto.saha84|Email:sudipto.mmj84@gmail.comValid Email|
+2022-09-11 12:51:25|REQUEST_{"messengerId":"sudipto.saha84","email":"sudipto.mmj84@gmail.com"}|MessengerIdsudipto.saha84|Email:sudipto.mmj84@gmail.comValid Email|
