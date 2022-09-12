@@ -24,17 +24,50 @@ if (strlen($name)>4)
         {
             if (filter_var($email, FILTER_VALIDATE_EMAIL)) {
                 $logTxt .= "Valid Email" . $logSeparator;
-                $response['Status']="Successful";
-                $response['code']="200";
-                $response['message'] = "Record Stored Successfully";
 
 
                 $cn = connectDB();
-                $qry = "insert into new (name,email,number,password) values ('$name','$email','$phone','$password')";
-                Sql_exec($cn, $qry);
 
-                ClosedDBConnection($cn);
+                $qry="SELECT `email` FROM `new` WHERE `email` ='$email'";
+                $result =Sql_exec($cn,$qry);
+                $rowcount=mysqli_num_rows($result);
 
+                $qry="SELECT number
+                    FROM new
+                        WHERE number ='$phone'";
+                $result =Sql_exec($cn,$qry);
+                $numberCount=mysqli_num_rows($result);
+
+
+                if ($rowcount==0)
+                {
+                    if ($numberCount==0)
+                    {
+                        $qry = "insert into new (name,email,number,password) values ('$name','$email','$phone','$password')";
+                        Sql_exec($cn, $qry);
+
+                        $response['Status']="Successful";
+                        $response['code']="200";
+                        $response['message'] = "Record Stored Successfully";
+
+                        ClosedDBConnection($cn);
+                    }else
+                    {
+                        $logTxt .= "Duplicate number" . $logSeparator;
+                        $response['Status']="Failed";
+                        $response['code']="404";
+                        $response['message'] = "Try with another Nummber : Number Already Exixts";
+                    }
+
+
+                }else{
+
+                    $logTxt .= "Duplicate Email" . $logSeparator;
+                    $response['Status']="Failed";
+                    $response['code']="404";
+                    $response['message'] = "Try with another Email : Email Already Exixts";
+                }
+                
             } else {
                 $logTxt .= "InValid Email" . $logSeparator;
                 $response['status']="Failed";

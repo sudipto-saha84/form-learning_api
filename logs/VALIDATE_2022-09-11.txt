@@ -117,3 +117,5 @@
 2022-09-11 15:47:33|REQUEST_{"name":"sudipto","email":"sudipto.aaaa@gmail.com","phone":"01758877884","password":"123456"}|Name :sudipto|Email : sudipto.aaaa@gmail.com|Phone No :01758877884|Password123456|Valid Email|Duplicate Email|
 2022-09-11 15:47:44|REQUEST_{"name":"sudipto","email":"sudipto.bbb@gmail.com","phone":"01758877884","password":"123456"}|Name :sudipto|Email : sudipto.bbb@gmail.com|Phone No :01758877884|Password123456|Valid Email|Duplicate number|
 2022-09-11 15:48:01|REQUEST_{"name":"sudipto","email":"sudipto.bbb@gmail.com","phone":"01758877888","password":"123456"}|Name :sudipto|Email : sudipto.bbb@gmail.com|Phone No :01758877888|Password123456|Valid Email|
+2022-09-11 18:15:53|REQUEST_{"name":"sudipto","email":"sudipto.mmjjjj@gmail.com","phone":"017588774823","password":"123456"}|Name :sudipto|Email : sudipto.mmjjjj@gmail.com|Phone No :017588774823|Password123456|InValid Phone|
+2022-09-11 18:16:22|REQUEST_{"name":"sudipto","email":"sudipto.mmjjjj@gmail.com","phone":"01758877482","password":"123456"}|Name :sudipto|Email : sudipto.mmjjjj@gmail.com|Phone No :01758877482|Password123456|Valid Email|
